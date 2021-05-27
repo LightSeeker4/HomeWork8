@@ -8,7 +8,8 @@ using System.Threading.Tasks;
 
 namespace Task5.CSVtoXML
 {
-
+//Алексей Сазонов
+//5. **Написать программу-преобразователь из CSV в XML-файл с информацией о студентах.
     class Program
     {
         /// <summary>Мэджик код</summary>

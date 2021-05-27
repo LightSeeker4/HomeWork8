@@ -7,6 +7,8 @@ using System.Reflection;
 
 namespace Task1.DateTimeProp
 {
+//Алексей Сазонов
+//C помощью рефлексии выведите все свойства структуры DateTime.
     class Program
     {
         static PropertyInfo GetPropertyInfo(object obj, string str)
