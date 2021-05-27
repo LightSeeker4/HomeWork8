@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <StudentIndo>
+    <Name>Мария</Name>
+    <Surname>Аксёнова</Surname>
+    <University>КГУ</University>
+    <Faculty>Институт экономики</Faculty>
+    <Department>Менеджмент и Маркетинг</Department>
+    <Age>01.09.2003</Age>
+    <Course>Кострома</Course>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Александр</Name>
+    <Surname>Пушкин</Surname>
+    <University>СПбГУ</University>
+    <Faculty>Литературных гениев</Faculty>
+    <Department>Любителей почитать</Department>
+    <Age>18</Age>
+    <Course>1</Course>
+    <Group>1901</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Ольга</Name>
+    <Surname>Васильева</Surname>
+    <University>СПбГУКА</University>
+    <Faculty>Радиотехники и радиосистем</Faculty>
+    <Department>Радиотехники</Department>
+    <Age>19</Age>
+    <Course>2</Course>
+    <Group>1823</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Пётр</Name>
+    <Surname>Евситеев</Surname>
+    <University>СПбГАСУ</University>
+    <Faculty>Строительства</Faculty>
+    <Department>Гражданского строительства</Department>
+    <Age>20</Age>
+    <Course>3</Course>
+    <Group>1758</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Инга</Name>
+    <Surname>Захарина</Surname>
+    <University>СПбПУ</University>
+    <Faculty>Технический</Faculty>
+    <Department>Прекрасная</Department>
+    <Age>21</Age>
+    <Course>3</Course>
+    <Group>1764</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Глеб</Name>
+    <Surname>Георгиев</Surname>
+    <University>ИТБИД</University>
+    <Faculty>Коммуникативного дизайна</Faculty>
+    <Department>Кафедра искусств</Department>
+    <Age>18</Age>
+    <Course>1</Course>
+    <Group>1905</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Борис</Name>
+    <Surname>Влажный</Surname>
+    <University>МФТИ</University>
+    <Faculty>Важности физики</Faculty>
+    <Department>Физико-математическая</Department>
+    <Age>22</Age>
+    <Course>5</Course>
+    <Group>3645</Group>
+    <City>Москва</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Алина</Name>
+    <Surname>Трулина</Surname>
+    <University>СПХФУ</University>
+    <Faculty>Промышленных технологий лекарств</Faculty>
+    <Department>Промышленной технологии лекарственных препаратов</Department>
+    <Age>22</Age>
+    <Course>5</Course>
+    <Group>3956</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Игорь</Name>
+    <Surname>Игорев</Surname>
+    <University>МГУ</University>
+    <Faculty>Красоты и здоровья</Faculty>
+    <Department>Принцесс</Department>
+    <Age>23</Age>
+    <Course>6</Course>
+    <Group>1337</Group>
+    <City>Москва</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Андрей</Name>
+    <Surname>Бакунчев</Surname>
+    <University>СПбГУАП</University>
+    <Faculty>Информационных систем и защиты информации</Faculty>
+    <Department>Безопасности информационных систем</Department>
+    <Age>23</Age>
+    <Course>6</Course>
+    <Group>5711</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Владимир</Name>
+    <Surname>Плутин</Surname>
+    <University>МАИ</University>
+    <Faculty>Авиации</Faculty>
+    <Department>Авиационного строения</Department>
+    <Age>22</Age>
+    <Course>5</Course>
+    <Group>8800</Group>
+    <City>Москва</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Ярополк</Name>
+    <Surname>Святогорович</Surname>
+    <University>ГАИ</University>
+    <Faculty>Полиции</Faculty>
+    <Department>Автополиции</Department>
+    <Age>19</Age>
+    <Course>1</Course>
+    <Group>2280</Group>
+    <City>Краснодар</City>
+  </StudentIndo>
+</Students>
